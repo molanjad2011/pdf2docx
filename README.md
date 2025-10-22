@@ -1,9 +1,6 @@
-English | [中文](README_CN.md)
-
 # pdf2docx 
 
 ![python-version](https://img.shields.io/badge/python->=3.6-green.svg)
-[![codecov](https://codecov.io/gh/dothinking/pdf2docx/branch/master/graph/badge.svg)](https://codecov.io/gh/dothinking/pdf2docx)
 [![pypi-version](https://img.shields.io/pypi/v/pdf2docx.svg)](https://pypi.python.org/pypi/pdf2docx/)
 ![license](https://img.shields.io/pypi/l/pdf2docx.svg)
 ![pypi-downloads](https://img.shields.io/pypi/dm/pdf2docx)
